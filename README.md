@@ -4,7 +4,7 @@ This repository contains my code created during the internship at the Seismology
 
 
 ## Structure of the repository:
-* **Obliquity Calculation**
+* [**Obliquity Calculation**](https://www.google.com)
 * **Depth Calculation**
 * **Linear Regression / Correlation**
 * **Profile Calculation**
